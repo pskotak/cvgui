@@ -1,2 +1,4 @@
 # cvgui
-Simple OpenCV driven GUI
+Simple OpenCV driven GUI for linux
+
+Note: Depends on OpenCV library.
